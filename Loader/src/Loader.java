@@ -28,7 +28,9 @@ public class Loader {
 		fr.close();
 		
 
-		System.out.println("Loading done local 2!");
+
+		System.out.println("Loading done merged !");
+
 
 
 	}
