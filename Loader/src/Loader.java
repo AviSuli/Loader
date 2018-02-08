@@ -27,7 +27,9 @@ public class Loader {
 		
 		fr.close();
 		
-		System.out.println("Loading done modified!dif f");
+
+		System.out.println("Loading done local !");
+
 
 	}
 	
