@@ -27,7 +27,7 @@ public class Loader {
 		
 		fr.close();
 		
-		System.out.println("Loading done modified!");
+		System.out.println("Loading done modified!diff");
 
 	}
 	
