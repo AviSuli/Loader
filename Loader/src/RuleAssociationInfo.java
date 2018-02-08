@@ -83,7 +83,7 @@ public class RuleAssociationInfo {
 		
 	//	for (Map<String,String> entry : ruleAssociationMap.entrySet())
 		//return ruleAssociationMap.values();
-		return "a";
+		return "aa";
 	}
 	
 	
